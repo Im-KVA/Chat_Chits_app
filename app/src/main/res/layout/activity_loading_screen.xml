@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_1"
+    tools:context=".LoadingScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:src="@drawable/chat_icon"
+            app:tint="@color/color_2"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textSize="40sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:fontFamily="monospace"
+            android:layout_margin="20sp"/>
+
+        <ProgressBar
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kieu Vu Anh"
+            android:textColor="@color/white"
+            android:fontFamily="monospace"
+            android:paddingTop="15sp"
+            android:layout_margin="5sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bui Viet Anh"
+            android:textColor="@color/white"
+            android:fontFamily="monospace"
+            android:layout_margin="5sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vu Viet Anh"
+            android:textColor="@color/white"
+            android:fontFamily="monospace"
+            android:layout_margin="5sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pham Xuan Bang"
+            android:textColor="@color/white"
+            android:fontFamily="monospace"
+            android:layout_margin="5sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vu Thanh Cong"
+            android:textColor="@color/white"
+            android:fontFamily="monospace"
+            android:layout_margin="5sp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Developed by Nhom_1"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/off_white"/>
+
+</RelativeLayout>

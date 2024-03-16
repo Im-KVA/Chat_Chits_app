@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChatChits" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/color_1</item>
+        <item name="colorPrimaryVariant">@color/color_1</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/color_2</item>
+        <item name="colorSecondaryVariant">@color/color_2</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <item name="android:windowBackground">@color/off_white</item>
+
+    </style>
+
+    <style name="Theme.ChatChits" parent="Base.Theme.ChatChits" />
+</resources>
