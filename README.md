@@ -44,7 +44,7 @@ Android, Kotlin
 
 ### Danh sách nhắn tin | Cài đặt profile | Tìm kiếm
 <p align = "left" >
-<img width="540" height="1200" src="github_images/Resend_chat.png"> 
+<img width="540" height="1200" src="github_images/Resent_chat.png"> 
 <img width="540" height="1200" src="github_images/Profile_view.png"> 
 <img width="540" height="1200" src="github_images/Search_view.png"> 
 </p>
