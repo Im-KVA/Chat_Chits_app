@@ -4,7 +4,7 @@
 ## Thành phần
 
 #### AndroidStudio
-Android, Kotlin
+Android, Java
 
 #### Firebase
 * Authentication
