@@ -30,21 +30,21 @@ Android, Kotlin
 
 ### Start | Nhập số điện thoại | Giao diện nhắn tin
 <p align = "left" >
-<img src="github_images/Loading_screen.png">
-<img src="github_images/Login_screen.png"> 
-<img src="github_images/Chat_view.png"> 
+<img width="540" height="1200" src="github_images/Loading_screen.png">
+<img width="540" height="1200" src="github_images/Login_screen.png"> 
+<img width="540" height="1200" src="github_images/Chat_view.png"> 
 </p>
 
 ### Đăng nhập hoặc tạo tài khoản
 <p align = "left" >
-<img src="github_images/Send_Otp.png"> 
-<img src="github_images/Check_Otp.png">  
-<img src="github_images/Username_login.png">
+<img width="540" height="1200" src="github_images/Send_Otp.png"> 
+<img width="540" height="1200" src="github_images/Check_Otp.png">  
+<img width="540" height="1200" src="github_images/Username_login.png">
 </p>
 
 ### Danh sách nhắn tin | Cài đặt profile | Tìm kiếm
 <p align = "left" >
-<img src="github_images/Resend_chat.png"> 
-<img src="github_images/Profile_view.png"> 
-<img src="github_images/Search_view.png"> 
+<img width="540" height="1200" src="github_images/Resend_chat.png"> 
+<img width="540" height="1200" src="github_images/Profile_view.png"> 
+<img width="540" height="1200" src="github_images/Search_view.png"> 
 </p>
