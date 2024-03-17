@@ -15,15 +15,16 @@
         android:background="@drawable/circle_bg"
         android:src="@drawable/user_icon"
         android:scaleType="centerCrop"
-        android:layout_marginBottom="40dp"
+        android:layout_marginBottom="20dp"
         android:id="@+id/profile_image_view"/>
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:background="@drawable/text_corner_style"
         android:elevation="5dp"
-        android:hint="Username"
+        android:hint="@string/username"
         android:inputType="text"
         android:padding="10dp"
         android:id="@+id/profile_username"/>
@@ -33,7 +34,7 @@
         android:layout_margin="10dp"
         android:background="@drawable/text_corner_style"
         android:elevation="5dp"
-        android:hint="Phone"
+        android:hint="@string/phone"
         android:inputType="phone"
         android:padding="10dp"
         android:enabled="false"
@@ -48,7 +49,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Update Profile"
+            android:text="@string/update_profile"
             android:id="@+id/profile_update_btn"/>
         <ProgressBar
             android:layout_width="32dp"
@@ -60,9 +61,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Logout"
+        android:text="@string/logout"
         android:layout_marginTop="10dp"
         android:id="@+id/logout_btn"/>
-
-
 </LinearLayout>

@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:letterSpacing="0.08"
-        android:text="Enter OTP sent to your phone number..."
+        android:text="@string/enter_otp_sent_to_your_phone_number"
         android:textSize="25sp"
         android:textStyle="bold"
         android:layout_weight="5"/>
@@ -114,7 +114,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Next"
+            android:text="@string/next"
             android:id="@+id/login_next_btn"/>
         <ProgressBar
             android:layout_width="32dp"
@@ -128,7 +128,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Resend OTP in 30 seconds"
+        android:text="@string/resend_otp_in_30_seconds"
         android:layout_weight="10"
         android:id="@+id/resend_otp_textview"/>
 

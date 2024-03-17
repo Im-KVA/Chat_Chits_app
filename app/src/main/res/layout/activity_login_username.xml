@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical"
         android:letterSpacing="0.08"
-        android:text="Enter your username..."
+        android:text="@string/enter_your_username"
         android:textSize="25sp"
         android:textStyle="bold"
         android:layout_weight="5"/>
@@ -96,7 +96,7 @@
             android:layout_margin="10dp"
             android:background="@drawable/text_corner_style"
             android:elevation="5dp"
-            android:hint="Username"
+            android:hint="@string/enter_username"
             android:inputType="text"
             android:padding="10dp"
             android:id="@+id/login_username"/>
@@ -113,7 +113,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Let go!!"
+            android:text="@string/let_go"
             android:id="@+id/login_letgo_btn"/>
         <ProgressBar
             android:layout_width="32dp"

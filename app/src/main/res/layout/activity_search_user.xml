@@ -16,7 +16,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Search User"
+            android:text="@string/search_user"
             android:textSize="22sp"
             android:textStyle="bold"
             android:textColor="@color/white"
@@ -48,7 +48,7 @@
             android:layout_margin="10dp"
             android:padding="10dp"
             android:elevation="4dp"
-            android:hint="Username"
+            android:hint="@string/search_username"
             android:layout_toLeftOf="@id/search_user_btn"
             android:id="@+id/search_username_input"/>
         <ImageButton

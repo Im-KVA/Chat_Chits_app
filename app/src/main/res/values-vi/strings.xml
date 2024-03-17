@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name" translatable="false">Chat Chits</string>
+<string name="prompt_email">Email</string>
+<string name="prompt_password">Mật khẩu</string>
+<string name="action_sign_in_short">Đăng nhập</string>
+<string name="welcome">"Xin chào !"</string>
+<string name="invalid_username">Tên không hợp lệ</string>
+<string name="invalid_password">Mật khẩu cần >5 ký tự</string>
+<string name="login_failed">"Đăng nhập thất bại"</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="enter_your_phone_number">Nhập số điện thoại...</string>
+<string name="mobile">Số điện thoại</string>
+<string name="username">Tài khoản</string>
+<string name="phone">Số điện thoại</string>
+<string name="update_profile">Cập nhật</string>
+<string name="logout">Đăng xuất</string>
+<string name="search_user">Tìm kiếm tài khoản</string>
+<string name="enter_your_username">Nhập tên tài khoản...</string>
+<string name="let_go">Bắt đầu nào!!</string>
+<string name="enter_otp_sent_to_your_phone_number">Nhập mã OTP được gửi tới sdt của bạn...</string>
+<string name="next">Tiếp theo</string>
+<string name="resend_otp_in_30_seconds">Gửi lại OTP trong 30s</string>
+<string name="send_otp">Gửi OTP</string>
+<string name="ask_me_something">Hỏi tôi bất kỳ cái gì</string>
+<string name="send">Gửi</string>
+<string name="write_message_here">Viết tin nhắn vào đây</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="settings">Cài đặt</string>
+    <string name="profile">Tài khoản</string>
+    <string name="chats">Tin nhắn</string>
+    <string name="search_username">Tìm kiếm tài khoản</string>
+    <string name="enter_username">Nhập tên tài khoản</string>
+    <string name="choose_lang">Chọn ngôn ngữ</string>
+    <string name="en">Tiếng Anh</string>
+    <string name="vi">Tiếng Việt</string>
+    <string name="de">Tiếng Đức</string>
+</resources>

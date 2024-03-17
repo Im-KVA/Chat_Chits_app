@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Chat Chits</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_sign_in_short">Anmeldung</string>
+    <string name="welcome">Hallo !</string>
+    <string name="invalid_username">Ungültiger Name</string>
+    <string name="invalid_password">Das Passwort benötigt >5 Zeichen</string>
+    <string name="login_failed">Fehler bei der Anmeldung</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_phone_number">Gib deine Telefonnummer ein...</string>
+    <string name="mobile">Telefonnummer</string>
+    <string name="username">Konto</string>
+    <string name="phone">Telefonnummer</string>
+    <string name="update_profile">Aktualisieren</string>
+    <string name="logout">Ausloggen</string>
+    <string name="search_user">Konten durchsuchen</string>
+    <string name="enter_your_username">Geben Sie den Kontonamen ein...</string>
+    <string name="let_go">Lass los!!</string>
+    <string name="enter_otp_sent_to_your_phone_number">Geben Sie den an Ihre Telefonnummer gesendeten OTP-Code ein...</string>
+    <string name="next">Nächste</string>
+    <string name="resend_otp_in_30_seconds">OTP innerhalb von 30 Sekunden erneut senden</string>
+    <string name="send_otp">OTP senden</string>
+    <string name="ask_me_something">Frag mich was</string>
+    <string name="send">Schicken</string>
+    <string name="write_message_here">Schreiben Sie hier eine Nachricht</string>
+    <string name="language">Sprache</string>
+    <string name="settings">Einstellung</string>
+    <string name="profile">Konto</string>
+    <string name="chats">Nachricht</string>
+    <string name="search_username">Konten durchsuchen</string>
+    <string name="enter_username">Geben Sie den Kontonamen ein</string>
+    <string name="choose_lang">Sprache auswählen</string>
+    <string name="en">Englisch</string>
+    <string name="vi">Vietnamesisch</string>
+    <string name="de">Deutsch</string>
+</resources>
