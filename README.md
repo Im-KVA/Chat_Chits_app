@@ -28,23 +28,33 @@ Android, Java
 
 ## Giao diện - Screenshots
 
-### Start | Nhập số điện thoại | Giao diện nhắn tin
+### Màn hình chờ | Nhập số điện thoại | Giao diện nhắn tin
 <p align = "left" >
-<img width="540" height="1200" src="github_images/Loading_screen.png">
-<img width="540" height="1200" src="github_images/Login_screen.png"> 
-<img width="540" height="1200" src="github_images/Chat_view.png"> 
+<img width="270" height="600" src="github_images/Loading_screen.png">
+  |
+<img width="270" height="600" src="github_images/Login_screen.png"> 
+  |
+<img width="270" height="600" src="github_images/Chat_view.png"> 
 </p>
+
+### Thông báo tin nhắn trong nền
+<img src="github_images/Notification.png">
+
 
 ### Đăng nhập hoặc tạo tài khoản
 <p align = "left" >
-<img width="540" height="1200" src="github_images/Send_Otp.png"> 
-<img width="540" height="1200" src="github_images/Check_Otp.png">  
-<img width="540" height="1200" src="github_images/Username_login.png">
+<img width="270" height="600" src="github_images/Send_Otp.png"> 
+  |
+<img width="270" height="600" src="github_images/Check_Otp.png"> 
+  |
+<img width="270" height="600" src="github_images/Username_login.png">
 </p>
 
 ### Danh sách nhắn tin | Cài đặt profile | Tìm kiếm
 <p align = "left" >
-<img width="540" height="1200" src="github_images/Recent_chat.png"> 
-<img width="540" height="1200" src="github_images/Profile_view.png"> 
-<img width="540" height="1200" src="github_images/Search_view.png"> 
+<img width="270" height="600" src="github_images/Recent_chat.png"> 
+  |
+<img width="270" height="600" src="github_images/Profile_view.png"> 
+  |
+<img width="270" height="600" src="github_images/Search_view.png"> 
 </p>
