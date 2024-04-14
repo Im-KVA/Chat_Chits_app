@@ -20,11 +20,13 @@ Android, Java
 
 **Profile_view:** Thay đổi ảnh đại diện, đổi tên người dùng, đăng xuất
 
+**Settings_view:** Thay đổi cài đặt ngôn ngữ 
+
 **Chat:** Gửi và hiển thị tin nhắn được phân loại theo timestamp
 
-**Search:** Tìm bạn bè qua số điện thoại
+**Search:** Tìm bạn bè qua số điện thoại và tên tài khoản
 
-**General:** Auto login, bottom navigation, error messages with snackbar, progress bar
+**Etc:** Auto login, bottom navigation, notifications, progress bar...
 
 ## Giao diện - Screenshots
 
