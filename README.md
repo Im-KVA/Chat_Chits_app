@@ -6,11 +6,38 @@
 #### AndroidStudio
 Android, Java
 
+### Activity Files
+
+- `ChatActivity.java`: Activity nhắn tin.
+- `LoginOtpActivity.java`: Đăng nhập bằng OTP.
+- `LoginPhoneNumberActivity.java`: Đăng nhập qua số điện thoại.
+- `LoginUsernameActivity.java`: Quản lý tên tài khoản người dùng đăng nhập.
+- `MainActivity.java`: Hiện lên sau giao diện loading và login, gồm các thành phần chính.
+- `SearchUserActivity.java`: Cho phép người dùng tìm kiếm qua sdt và tên tài khoản.
+- `LoadingScreen.java`: Hiển thị giao diện chờ.
+
+### Fragment Files
+
+- `ChatFragment.java`: Quản lý chat UI và các logic trong chat activity.
+- `ProfileFragment.java`: Quản lý tài khoản người dùng và chỉnh sửa.
+- `SearchUserFragment.java`: Hiển thị giao diện tìm kiếm.
+- `SettingsFragment.java`: Cài đặt ngôn ngữ.
+
+### Service File
+
+- `FCMNotificationService.java`: Thêm Firebase Cloud Messaging để tạo thông báo đẩy.
+
 #### Firebase
 * Authentication
 * Realtime Database
 * Storage
 * Cloud Messaging
+
+### Gemini Chatbot
+
+- `BuildConfig.java`: Nơi lưu api-key.
+- `ChatbotActivity.java`: Quản lý tin nhắn và nhận tin với bot.
+- `GeminiProAPI.java`: Gọi API của Gemini - phiên bản pro v-1.
 
 ## Tính năng
 
