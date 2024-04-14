@@ -51,6 +51,8 @@ Android, Java
 
 **Chat:** Gửi và hiển thị tin nhắn được phân loại theo timestamp
 
+**Chatbot:** Gửi và hiển thị tin nhắn với Gemini
+
 **Search:** Tìm bạn bè qua số điện thoại và tên tài khoản
 
 **Etc:** Auto login, bottom navigation, notifications, progress bar...
