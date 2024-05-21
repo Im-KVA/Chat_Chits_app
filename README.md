@@ -3,7 +3,7 @@
 
 ## Thành phần
 
-#### AndroidStudio
+### AndroidStudio
 Android, Java
 
 ### Activity Files
@@ -27,7 +27,7 @@ Android, Java
 
 - `FCMNotificationService.java`: Thêm Firebase Cloud Messaging để tạo thông báo đẩy.
 
-#### Firebase
+### Firebase
 * Authentication
 * Realtime Database
 * Storage
