@@ -1,4 +1,4 @@
-# Bài tập lớn - Chat_app Android
+# Chat_app Android
 ![HeaderImage](github_images/header.png)
 
 ## Thành phần
